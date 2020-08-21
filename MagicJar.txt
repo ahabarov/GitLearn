@@ -1,1 +1,5 @@
-Pyth code
+<<<<<<< HEAD
+JS code
+=======
+JS code
+>>>>>>> frst_branch
